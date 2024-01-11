@@ -8,5 +8,5 @@ USE holbteron_0;
 CREATE TABLE IF NOT EXISTS holbteron_1 (id INT, name VARCHAR(50));
 CREATE TABLE IF NOT EXISTS holbteron_2 (id INT, data VARCHAR(50));
 
--- List tables
+-- List tables in the current database
 SHOW TABLES;
